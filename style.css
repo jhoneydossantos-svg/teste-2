@@ -1,6 +1,18 @@
 body { font-family: 'sergoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px;
-  background-color: rgba(52, 225, 248, 0.664); }
+  background-color: #acffb7; }
   button { background-color:purple; color:white; border:none; border-radius: 8px; cursor:pointer; font-size: 16px; }
   button:hover { background-color: pink;}
-  .cor-roxa { color: purple; }
-  .cor-rosa { color: pink; }
+  .cor-vermelha { color: rgb(201, 2, 35); }
+  .cor-rosa { color: rgb(238, 86, 187); }
+  .cor-rosa { color: rgb(247, 116, 138); }  
+  header { 
+    background-color:rgb(189, 97, 226);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 40px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'sergoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    .logo span {font-size: 22px;
+    font-weight: bold;
+  color:a020f0}  
